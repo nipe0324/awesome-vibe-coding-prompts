@@ -26,7 +26,8 @@ A list of vibe coding prompt references, AI drive development.
 
 ### Claude Code
 
-- [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite) -Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite) - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
 
 ### Cursor
 
